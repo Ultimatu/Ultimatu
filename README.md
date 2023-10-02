@@ -1,16 +1,28 @@
-### Hi there 👋
+  
+    
+    @GetMapping("down/{filename:.+}/{id}")
+    public ResponseEntity<Resource> downloadFile(HttpServletRequest request, @PathVariable String filename, @PathVariable String id) {
+        CustomLogger.log("INFO", "File requested " + filename);
+        Resource resource = loader.loadFileAsResource(filename);
+        CustomLogger.log("INFO", "File found " + filename);
 
+        // Try to determine file's content type
+        String contentType = null;
+        try {
+            contentType = request.getServletContext().getMimeType(resource.getFile().getAbsolutePath());
+        } catch (IOException ex) {
+            CustomLogger.log("ERROR", "Could not determine file type.");
+        }
 
-**Ultimatu/Ultimatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        // Fallback to the default content type if type could not be determined
+        if (contentType == null) {
+            contentType = "application/octet-stream";
+        }
 
-Here are some ideas to get you started:
+        return ResponseEntity.ok()
+                .contentType(MediaType.parseMediaType(contentType))
+                .header("id", id)
+                .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + resource.getFilename() + "\"")
+                .body(resource);
 
- 🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
-😄 Pronouns: ...
- ⚡ Fun fact: ...
-
+    }
