@@ -32,11 +32,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg?short_path=9bc
+   
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg?short_path=9bc4)" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ultimatu)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimatu&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
