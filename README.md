@@ -4,11 +4,8 @@
   <a href="https://www.linkedin.com/in/souleymane-tonde-6123a8277/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/IneSerge">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ZHKING13&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Ultimatu&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey here...
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
