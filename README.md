@@ -54,5 +54,5 @@ ___
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimatu&show_icons=true&theme=merko)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ultimatu)](https://git.io/streak-stats) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ultimatu)](https://git.io/streak-stats)
 </div>
