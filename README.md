@@ -53,6 +53,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ___
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ultimatu&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ultimatu&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
 
 
