@@ -52,7 +52,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 ___
 
-### :fire: My Stats :
+### :fire: My Stats(In Public Repositories) :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ultimatu&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
 
 
