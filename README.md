@@ -69,4 +69,7 @@ ___
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ultimatu&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
 
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/Ultimatu.svg)](https://user-badge.committers.top/ivory_coast_private/Ultimatu)
+
+
 
