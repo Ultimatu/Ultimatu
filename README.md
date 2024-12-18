@@ -66,8 +66,7 @@ ___
 
 
 ### :fire: My Stats :
-> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ultimatu&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Ultimatu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ultimatu&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=Ultimatu&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ultimatu&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimatu&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
