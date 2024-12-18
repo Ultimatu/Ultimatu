@@ -67,10 +67,17 @@ ___
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ultimatu&theme=dark&background=000000)](https://git.io/streak-stats) <br/> 
+![](https://github-readme-stats.vercel.app/api?username=Ultimatu&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ultimatu&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimatu&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+
+# 📊 GitHub Rank In My Country:
 [![committers.top badge](https://user-badge.committers.top/ivory_coast_private/Ultimatu.svg)](https://user-badge.committers.top/ivory_coast_private/Ultimatu)
 
 
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=daohassane&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
